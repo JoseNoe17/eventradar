@@ -295,7 +295,6 @@ textarea.input100 {
   display: -ms-flexbox;
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
   margin-top: -4px;
 }
 
@@ -310,8 +309,6 @@ textarea.input100 {
   display: -moz-box;
   display: -ms-flexbox;
   display: flex;
-  justify-content: center;
-  align-items: center;
   padding: 0 20px;
   min-width: 150px;
   height: 55px;
